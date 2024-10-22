@@ -17,6 +17,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import com.example.testnavdrawer2.databinding.ActivityMainBinding;
 
 //hello
+// jim
 
 public class MainActivity extends AppCompatActivity {
 
